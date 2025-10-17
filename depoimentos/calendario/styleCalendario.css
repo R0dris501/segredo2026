@@ -142,14 +142,18 @@ body {
 
 
   a{
-    display: block;
-    width: 19%;
     color: white;
     text-decoration: none;
-    background-color: #F465B6;
     font-size: 350%;
-    border-radius: 5%;
-    margin-left: 41%;
-    text-align: center;
-    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.proximo {
+  margin-top: 10%;
+  height: 75px;
+  width: 23%;
+  background-color: #F465B6;
+  align-content: center;
+  border-radius: 15px;
+  margin-left: 40%;
 }

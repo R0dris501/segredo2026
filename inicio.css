@@ -25,12 +25,17 @@ h3{
 }
 
 a{
-    display: block;
-    width: 9%;
     color: white;
     text-decoration: none;
-    background-color: #F465B6;
     font-size: 350%;
-    border-radius: 5%;
+    margin-left: 10%;
+}
+
+.inicio {
+    height: 75px;
+    width: 9%;
+    background-color: #F465B6;
+    align-content: center;
+    border-radius: 15px;
     margin-left: 45%;
 }
